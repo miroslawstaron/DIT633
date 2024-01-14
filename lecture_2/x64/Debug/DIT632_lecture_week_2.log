@@ -1,0 +1,12 @@
+﻿cl : command line  warning D9025: overriding '/sdl' with '/GS-'
+  address_structure.c
+C:\Users\miros\Documents\Code\DIT632_lecture_week_2\address_structure.c(8,1): warning C4005: '_CRT_SECURE_CPP_OVERLOAD_STANDARD_NAMES': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\corecrt.h(547,1): message : see previous definition of '_CRT_SECURE_CPP_OVERLOAD_STANDARD_NAMES'
+C:\Users\miros\Documents\Code\DIT632_lecture_week_2\address_structure.c(46,34): warning C4013: 'malloc' undefined; assuming extern returning int
+C:\Users\miros\Documents\Code\DIT632_lecture_week_2\address_structure.c(46,59): warning C4312: 'type cast': conversion from 'int' to 'char *' of greater size
+C:\Users\miros\Documents\Code\DIT632_lecture_week_2\address_structure.c(50,2): warning C4013: 'free' undefined; assuming extern returning int
+C:\Users\miros\Documents\Code\DIT632_lecture_week_2\address_structure.c(48,11): warning C4047: 'initializing': 'char *' differs in levels of indirection from 'int'
+  main.c
+C:\Users\miros\Documents\Code\DIT632_lecture_week_2\main.c(23,2): warning C4013: 'address_example' undefined; assuming extern returning int
+  Generating Code...
+  DIT632_lecture_week_2.vcxproj -> C:\Users\miros\Documents\Code\DIT632_lecture_week_2\x64\Debug\DIT632_lecture_week_2.exe

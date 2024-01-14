@@ -1,0 +1,39 @@
+﻿  address_structure.c
+C:\Users\miros\Documents\Code\DIT632_lecture_week_2\address_structure.c(8,1): warning C4005: '_CRT_SECURE_CPP_OVERLOAD_STANDARD_NAMES': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\corecrt.h(547,1): message : see previous definition of '_CRT_SECURE_CPP_OVERLOAD_STANDARD_NAMES'
+C:\Users\miros\Documents\Code\DIT632_lecture_week_2\address_structure.c(46,34): warning C4013: 'malloc' undefined; assuming extern returning int
+C:\Users\miros\Documents\Code\DIT632_lecture_week_2\address_structure.c(46,59): warning C4312: 'type cast': conversion from 'int' to 'char *' of greater size
+C:\Users\miros\Documents\Code\DIT632_lecture_week_2\address_structure.c(50,2): warning C4013: 'free' undefined; assuming extern returning int
+C:\Users\miros\Documents\Code\DIT632_lecture_week_2\address_structure.c(71,9): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'char **'
+C:\Users\miros\Documents\Code\DIT632_lecture_week_2\address_structure.c(80,12): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'char **'
+C:\Users\miros\Documents\Code\DIT632_lecture_week_2\address_structure.c(87,11): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'char **'
+C:\Users\miros\Documents\Code\DIT632_lecture_week_2\address_structure.c(91,11): warning C4477: 'scanf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'char **'
+C:\Users\miros\Documents\Code\DIT632_lecture_week_2\address_structure.c(95,12): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'char **'
+C:\Users\miros\Documents\Code\DIT632_lecture_week_2\address_structure.c(96,12): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'char **'
+C:\Users\miros\Documents\Code\DIT632_lecture_week_2\address_structure.c(48,11): warning C4047: 'initializing': 'char *' differs in levels of indirection from 'int'
+C:\Users\miros\Documents\Code\DIT632_lecture_week_2\address_structure.c(58,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\miros\Documents\Code\DIT632_lecture_week_2\address_structure.c(62,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\miros\Documents\Code\DIT632_lecture_week_2\address_structure.c(67,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\miros\Documents\Code\DIT632_lecture_week_2\address_structure.c(91,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  array_of_pointers.c
+  bits_and_bytes.c
+C:\Users\miros\Documents\Code\DIT632_lecture_week_2\bits_and_bytes.c(79,5): warning C4013: 'printf' undefined; assuming extern returning int
+  main.c
+C:\Users\miros\Documents\Code\DIT632_lecture_week_2\main.c(25,2): warning C4013: 'dynamic_person_example' undefined; assuming extern returning int
+  struct_pointers.c
+C:\Users\miros\Documents\Code\DIT632_lecture_week_2\struct_pointers.c(27,12): warning C4013: 'malloc' undefined; assuming extern returning int
+C:\Users\miros\Documents\Code\DIT632_lecture_week_2\struct_pointers.c(27,35): warning C4047: '=': 'sPerson *' differs in levels of indirection from 'int'
+C:\Users\miros\Documents\Code\DIT632_lecture_week_2\struct_pointers.c(38,2): warning C4013: 'gets' undefined; assuming extern returning int
+C:\Users\miros\Documents\Code\DIT632_lecture_week_2\struct_pointers.c(55,2): warning C4013: 'free' undefined; assuming extern returning int
+C:\Users\miros\Documents\Code\DIT632_lecture_week_2\struct_pointers.c(41,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\miros\Documents\Code\DIT632_lecture_week_2\struct_pointers.c(67,44): warning C4047: '=': 'sCompletePerson *' differs in levels of indirection from 'int'
+  swap.c
+C:\Users\miros\Documents\Code\DIT632_lecture_week_2\swap.c(39,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
+C:\Users\miros\Documents\Code\DIT632_lecture_week_2\swap.c(39,9): warning C4313: 'printf': '%d' in format string conflicts with argument 1 of type 'int *'
+C:\Users\miros\Documents\Code\DIT632_lecture_week_2\swap.c(65,13): warning C4013: 'malloc' undefined; assuming extern returning int
+C:\Users\miros\Documents\Code\DIT632_lecture_week_2\swap.c(67,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'char *'
+C:\Users\miros\Documents\Code\DIT632_lecture_week_2\swap.c(67,9): warning C4313: 'printf': '%d' in format string conflicts with argument 1 of type 'char *'
+C:\Users\miros\Documents\Code\DIT632_lecture_week_2\swap.c(68,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'char *'
+C:\Users\miros\Documents\Code\DIT632_lecture_week_2\swap.c(68,9): warning C4313: 'printf': '%d' in format string conflicts with argument 1 of type 'char *'
+C:\Users\miros\Documents\Code\DIT632_lecture_week_2\swap.c(89,10): warning C4047: '=': 'char *' differs in levels of indirection from 'int (__cdecl *)(int *,int *)'
+C:\Users\miros\Documents\Code\DIT632_lecture_week_2\swap.c(65,8): warning C4047: 'initializing': 'char *' differs in levels of indirection from 'int'

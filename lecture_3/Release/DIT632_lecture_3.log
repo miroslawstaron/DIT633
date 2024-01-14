@@ -1,0 +1,12 @@
+﻿  file_sockets_server_struct.c
+C:\Users\miros\Documents\Code\DIT632_lecture_3\file_sockets_server_struct.c(53,17): warning C4098: 'main_sock_struct': 'void' function returning a value
+C:\Users\miros\Documents\Code\DIT632_lecture_3\file_sockets_server_struct.c(68,61): warning C4133: 'function': incompatible types - from 'int *' to 'const char *'
+  main.c
+C:\Users\miros\Documents\Code\DIT632_lecture_3\main.c(25,2): warning C4013: 'main_client_struct' undefined; assuming extern returning int
+  Generating code
+  2 of 5 functions (40.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+C:\Users\miros\Documents\Code\DIT632_lecture_3\file_sockets_client_struct.c(78): warning C4715: 'main_client_struct': not all control paths return a value
+  Finished generating code
+  DIT632_lecture_3.vcxproj -> C:\Users\miros\Documents\Code\DIT632_lecture_3\Release\DIT632_lecture_3.exe

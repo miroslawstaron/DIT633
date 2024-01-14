@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\bits_and_bytes.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\bits_and_bytes.dir/objects.a @CMakeFiles\bits_and_bytes.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\bits_and_bytes.dir/objects.a -Wl,--no-whole-archive  -o bits_and_bytes.exe -Wl,--out-implib,libbits_and_bytes.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\bits_and_bytes.dir\linklibs.rsp

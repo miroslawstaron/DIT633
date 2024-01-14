@@ -1,0 +1,22 @@
+﻿  basics.c
+C:\Users\miros\Documents\Code\DIT632_multithreading\basics.c(86,55): warning C4047: '=': 'HANDLE' differs in levels of indirection from 'uintptr_t'
+C:\Users\miros\Documents\Code\DIT632_multithreading\basics.c(87,55): warning C4047: '=': 'HANDLE' differs in levels of indirection from 'uintptr_t'
+C:\Users\miros\Documents\Code\DIT632_multithreading\basics.c(88,55): warning C4047: '=': 'HANDLE' differs in levels of indirection from 'uintptr_t'
+C:\Users\miros\Documents\Code\DIT632_multithreading\basics.c(89,55): warning C4047: '=': 'HANDLE' differs in levels of indirection from 'uintptr_t'
+C:\Users\miros\Documents\Code\DIT632_multithreading\basics.c(91,12): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 1 has type 'HANDLE'
+  basics_processes.c
+  basics_semaphores.c
+C:\Users\miros\Documents\Code\DIT632_multithreading\basics_semaphores.c(125,59): warning C4047: '=': 'HANDLE' differs in levels of indirection from 'uintptr_t'
+C:\Users\miros\Documents\Code\DIT632_multithreading\basics_semaphores.c(126,59): warning C4047: '=': 'HANDLE' differs in levels of indirection from 'uintptr_t'
+C:\Users\miros\Documents\Code\DIT632_multithreading\basics_semaphores.c(127,59): warning C4047: '=': 'HANDLE' differs in levels of indirection from 'uintptr_t'
+C:\Users\miros\Documents\Code\DIT632_multithreading\basics_semaphores.c(128,59): warning C4047: '=': 'HANDLE' differs in levels of indirection from 'uintptr_t'
+  basic_processes_posix.c
+  basic_process_spawn_windows.c
+  main.c
+C:\Users\miros\Documents\Code\DIT632_multithreading\main.c(11,2): warning C4013: 'basics_processes' undefined; assuming extern returning int
+  pThreadExample.c
+  pThreadExample_failsafe.c
+  semaphores_posix_example.c
+  semaphore_example_visual_studio_docs.c
+  Generating Code...
+  mt.vcxproj -> C:\Users\miros\Documents\Code\DIT632_multithreading\Debug\mt.exe

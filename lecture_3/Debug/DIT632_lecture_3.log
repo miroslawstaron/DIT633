@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\miros\Documents\Code\DIT632_lecture_3\main.c(19,2): warning C4013: 'google_test' undefined; assuming extern returning int
+  DIT632_lecture_3.vcxproj -> C:\Users\miros\Documents\Code\DIT632_lecture_3\Debug\DIT632_lecture_3.exe

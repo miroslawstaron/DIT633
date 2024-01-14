@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/miroslaw/Documents/Code/untitled/main.c
+pthread.h
+C:/Users/miroslaw/Documents/Code/untitled/pthread.h
+stdio.h
+-
+
+C:/Users/miroslaw/Documents/Code/untitled/pthread.h
+windows.h
+-
+config.h
+C:/Users/miroslaw/Documents/Code/untitled/config.h
+time.h
+-
+signal.h
+-
+limits.h
+-
+need_errno.h
+C:/Users/miroslaw/Documents/Code/untitled/need_errno.h
+errno.h
+-
+sched.h
+C:/Users/miroslaw/Documents/Code/untitled/sched.h
+sys/types.h
+-
+
+C:/Users/miroslaw/Documents/Code/untitled/sched.h
+need_errno.h
+C:/Users/miroslaw/Documents/Code/untitled/need_errno.h
+errno.h
+-
+sys/types.h
+-
+time.h
+-
+
